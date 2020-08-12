@@ -116,17 +116,15 @@ This model performed much better but it is still overfitting.
 ## STEP 3: Predictions
 
 #### Training set
-##### True transcription: 
-he was in a fevered state of mind owing to the blight his wife's action threatened to cast upon his entire future
+True transcription:  he was in a fevered state of mind owing to the blight his wife's action threatened to cast upon his entire future
 
-##### Predicted transcription:
-he was in ha fevered stat ofmind owing to the blight his whitee sactiond prene tocast ipon hes indtire fetur
+--------------------------------------------------------------------------------
+Predicted transcription: he was in ha fevered stat ofmind owing to the blight his whitee sactiond prene tocast ipon hes indtire fetur
 
 
-#### Validation set
-##### True transcription
-so it is said anders
+#### Validation set:
+True transcription: so it is said anders
 
-##### Predicted transcription:
-sowadeads sat ander
+--------------------------------------------------------------------------------
+Predicted transcription: sowadeads sat ander
 
