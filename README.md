@@ -123,7 +123,7 @@ he was in a fevered state of mind owing to the blight his wife's action threaten
 he was in ha fevered stat ofmind owing to the blight his whitee sactiond prene tocast ipon hes indtire fetur
 
 
-#### Training set
+#### Validation set
 ##### True transcription
 so it is said anders
 
